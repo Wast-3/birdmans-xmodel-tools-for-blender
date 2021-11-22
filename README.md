@@ -26,3 +26,5 @@ Once the zip file is downloaded, you'll want to open blender and navigate to you
 From there you'll want to go to the add-ons menu, and then click the Install button
 
 ![addonsinstall](https://github.com/Wast-3/birdmans-xmodel-tools-for-blender/blob/main/readme_screenshots/StepFourAddonsMenu.png?raw=true)
+
+Find the directory where your zip file was downloaded to, and then install it with blender
