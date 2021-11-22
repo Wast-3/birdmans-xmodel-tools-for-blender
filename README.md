@@ -5,11 +5,15 @@ This blender addon should finally enable exporting of custom assets from blender
 
 Currently the addon only supports static objects with no bones, and does not support multiple materials. 
 
+# Usage
+
+The addon panel can be found in the "Render Properties" tab:
+
+![Usage](https://github.com/Wast-3/birdmans-xmodel-tools-for-blender/blob/main/readme_screenshots/StepFiveAddonUsage.png?raw=true)
+
 # Installation
 
-If this is your first time installing an addon with blender downloaded from github, the following steps will guide you through the process. 
-
-## Downloading the release
+If this is your first time installing an addon with blender downloaded from github, the following steps will guide you through the process:
 
 To get the latest stable version of the addon, navigate to the releases panel on the right side of this page:
 
